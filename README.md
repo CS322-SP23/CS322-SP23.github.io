@@ -1,1 +1,6 @@
-# CS322-SP23.github.io
+# CS322 - Software Engineering
+## Spring 2023
+
+### Links
+- [App requirements](REQUIREMENTS.txt)
+
