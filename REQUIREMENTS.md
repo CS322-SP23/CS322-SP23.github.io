@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # WebApp Requirements
 ## Appropriateness
 

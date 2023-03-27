@@ -1,3 +1,8 @@
+---
+layout: home
+paginate: true
+---
+
 # CS322 - Software Engineering
 ## Spring 2023
 
