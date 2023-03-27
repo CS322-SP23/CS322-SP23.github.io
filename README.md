@@ -2,5 +2,5 @@
 ## Spring 2023
 
 ### Links
-- [App requirements](REQUIREMENTS.txt)
+- [App requirements](REQUIREMENTS.md)
 
